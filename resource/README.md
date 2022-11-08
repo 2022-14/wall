@@ -7,6 +7,6 @@
 ---
 
 - [【随机点名】](https://2022-14.github.io/wall/resource/name/)
-
+- [【网课截图工具】](https://www.zybuluo.com/pandaoxi2022/note/2412946)（适用于 $Windows$ 电脑）
 
 敬请期待……
