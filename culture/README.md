@@ -25,6 +25,6 @@
 
 今日诗语：
 
-![](https://v1.jinrishici.com/all.svg)
+![](https://v2.jinrishici.com/one.svg?font-size=18)
 
 
