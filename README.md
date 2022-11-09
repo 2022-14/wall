@@ -1,2 +1,2 @@
 # wall
-网络文化墙、资源墙
+网络[文化墙](/culture)、[资源墙](/resource)
