@@ -11,6 +11,7 @@
 - [【网站大事记】]()
 - [【班级大事记】]()
 - [【班级日报】]()
+- [【网课回放】](https://pan.baidu.com/s/18nZBTzE3451ZP7nFOeWBRQ?pwd=b53e)
 
 
 ---
